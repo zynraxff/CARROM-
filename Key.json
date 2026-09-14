@@ -5,9 +5,7 @@
     "admin_url": "https://t.me/DPModsYT",
     "banner_url": "https://i.imgur.com/K3yZ8vN.jpg",
     "maintenance": false,
-    "banned_devices": [
-      "spammer_hwid_2"
-    ]
+    "banned_devices": []
   },
   "keys": {
     "DP-VIP-101": {
