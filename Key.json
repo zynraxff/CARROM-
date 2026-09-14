@@ -4,7 +4,7 @@
     "subtitle": "Copy your Device ID and send it to Admin.",
     "admin_url": "https://t.me/DPModsYT",
     "banner_url": "https://i.imgur.com/K3yZ8vN.jpg",
-    "maintenance": false,
+    "maintenance": true,
     "banned_devices": []
   },
   "keys": {
