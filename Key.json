@@ -6,7 +6,6 @@
     "banner_url": "https://i.imgur.com/K3yZ8vN.jpg",
     "maintenance": false,
     "banned_devices": [
-      "hacker_hwid_1",
       "spammer_hwid_2"
     ]
   },
