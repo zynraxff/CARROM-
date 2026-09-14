@@ -33,6 +33,14 @@
       "hwid": [
         "f8b3d5c9e617249e"
       ]
+    },
+    "DP-ZTXTV2": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-09-14",
+      "hwid": [
+        "f8b3d5c9e617249e"
+      ]
     }
   }
 }
